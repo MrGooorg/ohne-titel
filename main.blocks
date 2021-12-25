@@ -1,0 +1,91 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="][yt=q?#0(}C-CxT%Lzv">x</variable><variable id="xuOhcg|q)8a+z|v+Q:i;">y</variable></variables><block type="pxt-on-start" id="?hF=n$nztrd?42M_5[Lp" x="0" y="0"><statement name="HANDLER"><block type="device_start_melody" id="cV^lkK@cnZKAL[M7%4l%"><field name="options">MelodyOptions.ForeverInBackground</field><value name="melody"><block type="device_builtin_melody" id="FtZT^$nv1Mhmt?[}7eaM"><field name="melody">Melodies.Punchline</field></block></value><next><block type="device_show_leds" id="CWq[Ut`B9+mlc.=GUE8m"><field name="LEDS">`
+        . . # . . 
+        . # . # . 
+        # . . . # 
+        . # . # . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="g*S(?NfLBKvbHX7(}[/y"><field name="LEDS">`
+        . . . . . 
+        . . # . . 
+        . # . # . 
+        . . # . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="CP$PvRfCK17!.}56H8n^"><field name="LEDS">`
+        . . # . . 
+        . # . # . 
+        # . . . # 
+        . # . # . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="bG^(%,vor.E?=6^esN_~"><field name="LEDS">`
+        . . . . . 
+        . . # . . 
+        . # . # . 
+        . . # . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="S=ejp1#k83?=rFRxpE[g"><field name="LEDS">`
+        . . # . . 
+        . # . # . 
+        # . . . # 
+        . # . # . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="+;yZO,}D(#Ko9yF7WQ`;"><field name="LEDS">`
+        . . . . . 
+        . . # . . 
+        . # . # . 
+        . . # . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="LyQ(6~=x@l{Fo|Q4BvHg"><field name="LEDS">`
+        . . # . . 
+        . # . # . 
+        # . . . # 
+        . # . # . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="Q~(sWi~3Jzk#_GIZ_;i:"><field name="LEDS">`
+        . . . . . 
+        . . # . . 
+        . # . # . 
+        . . # . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="~4VJd#@f9~!`]!f1/c^x"><field name="LEDS">`
+        . . . . . 
+        . . # . . 
+        . # . # . 
+        . . # . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="$o4=$a}gaKjFb89w?mI?"><field name="LEDS">`
+        . . . . . 
+        . . # . . 
+        . # . # . 
+        . . # . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="VP8mwhs3GVZcvj|~`uKX"><field name="LEDS">`
+        . . . . . 
+        . . # . . 
+        . # . # . 
+        . . # . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="9oNx#EoLrmzR0HQLWHY("><field name="LEDS">`
+        . . . . . 
+        . . # . . 
+        . # . # . 
+        . . # . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="@oZ-nz59Da_{^rS],qM["><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="o=Np,oVR$-TCUZdKor%8"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="{rBPXcs@#,n$T}x}]S{5"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="music_stop_all_sounds" id="u4a)hnEPV*lv~4e3@~]2"/></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
